@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "gx-sun / BS"
 title_separator          : "-"
 name                     : &name "gx-sun"
 description              : &description "personal description"
