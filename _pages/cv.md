@@ -13,18 +13,18 @@ Education
 ======
 * B.S. in NJUST, Nanjing University of Sciece and Teachnology, 2015-2019
 * M.S. in NJUST, Nanjing University of Sciece and Teachnology, 2019-2022  
-<--! Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+<!-- Ph.D in Version Control Theory, GitHub University, 2018 (expected)  
 Work experience
 ======
-
+--> 
   
 Skills
 ======
 * Matlab
 * C++
-  * Sub-skill 2.1
+  * PCL(Point Cloud Libaray)
 
-
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
