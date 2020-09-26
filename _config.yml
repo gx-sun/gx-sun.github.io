@@ -120,9 +120,9 @@ author:
   weibo            :
   xing             :
   youtube          : "https://youtube.com"
-  wikipedia        : "https://baidu.com"
+  wikipedia        : #
   bilibili         : "https://space.bilibili.com/381546863"
-  zhihu            : "https://.zhihu.com"
+  zhihu            : "https://zhihu.com"
 
 
 # Reading Files
