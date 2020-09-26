@@ -9,4 +9,9 @@ redirect_from:
 ---
 
 This is a demo.
-Welcome to gs-sun pages!
+Welcome to gx-sun pages!
+
+Education
+======
+* B.S. in NJUST, Nanjing University of Sciece and Teachnology, 2015-2019
+* M.S. in NJUST, Nanjing University of Sciece and Teachnology, 2019-2022
