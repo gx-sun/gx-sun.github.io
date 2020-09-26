@@ -119,7 +119,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://youtube.com"
+  youtube          : # "https://youtube.com"
   wikipedia        : #
   bilibili         : "https://space.bilibili.com/381546863"
   zhihu            : "https://zhihu.com"
