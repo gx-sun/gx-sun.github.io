@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello!!! I am gx-sun.
+
+====
+Hello!!! 
+I am gx-sun.
 
 * I am a postgraduate student in NJUST of China.
 * My research interest is in Point Cloud Denoising.
