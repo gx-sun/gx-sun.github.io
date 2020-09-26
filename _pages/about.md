@@ -7,19 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hello!!! I am gx-sun.
 
-Name:gx-sun
+* I am a postgraduate student in NJUST of China.
+* My research interest is in Point Cloud Denoising.
+* Visit my Chinese blog [here](https://blog.csdn.net/Meet_csdn)!
 
-Age:24
 
-Email:example@cv.com
 
-Education
-======
-* B.S. in NJUST, Nanjing University of Sciece and Teachnology, 2015-2019
-* M.S. in NJUST, Nanjing University of Sciece and Teachnology, 2019-2022
-
-Skills
-======
-* Matlab
-* C++
