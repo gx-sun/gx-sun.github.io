@@ -8,10 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is a demo.
-Welcome to gx-sun pages!
+Name:gx-sun
+Age:24
+Email:example@cv.com
 
 Education
 ======
 * B.S. in NJUST, Nanjing University of Sciece and Teachnology, 2015-2019
 * M.S. in NJUST, Nanjing University of Sciece and Teachnology, 2019-2022
+
+Skills
+======
+* Matlab
+* C++
