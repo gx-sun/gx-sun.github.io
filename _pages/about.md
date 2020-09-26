@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-====
-Hello!!! 
+**Hello!!!**  
 I am gx-sun.
 
 * I am a postgraduate student in NJUST of China.
