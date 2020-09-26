@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 Name:gx-sun
+======
 Age:24
+======
 Email:example@cv.com
 
 Education
