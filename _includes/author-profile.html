@@ -123,7 +123,9 @@
       {% endif %}
 	  {% if author.bilibili %}
         <li><a href="{{ author.bilibili }}"><i class="fab fa-fw fa-bilibili" aria-hidden="true"></i> bilibili</a></li>
-
+	  {% endif %}
+	  {% if author.blog %}
+        <li><a href="{{ author.blog }}"><i class="fab fa-fw fa-book" aria-hidden="true"></i> blog</a></li>
 {% endif %}
     </ul>
   </div>
