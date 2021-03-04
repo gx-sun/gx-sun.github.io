@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-#**Hello!!!**  
-*Hello,I am guoxing.
+**Hello!!!**  
+
+* Hello,I am guoxing.
 * I am a postgraduate student in NJUST(Nanjing University of Science and Technology) of China.
 * My research interest is in Point Cloud Denoising.
 * I obtained my BS degree in Smart Grid Information Engineering from the school of automatic,NJUST(Nanjing University of Science and Technology) in 2019.
